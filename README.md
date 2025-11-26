@@ -1,14 +1,12 @@
-# 📱 Anatomy Of Mobile - Group 3 (NT213.Q12.ANTT)
+# Anatomy Of Mobile - Group 3 (NT213.Q12.ANTT)
 
-## 📋 Giới thiệu
-
-Đây là ứng dụng Android minh họa cho bài tập môn **Bảo mật Web (NT213.Q12.ANTT)** của **Nhóm 3** tại Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM (UIT).
+## Giới thiệu
 
 Ứng dụng demo các chức năng xác thực người dùng cơ bản bao gồm **Đăng nhập** và **Đăng ký** sử dụng SQLite Database.
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 | Công nghệ | Mô tả |
 |-----------|-------|
@@ -20,7 +18,7 @@
 
 ---
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 AnatomyOfMobile_Group3_NT213/
@@ -45,25 +43,25 @@ AnatomyOfMobile_Group3_NT213/
 
 ---
 
-## ✨ Chức năng chính
+## Chức năng chính
 
-### 🔐 Đăng nhập (Login)
+### Đăng nhập (Login)
 - Nhập tên người dùng và mật khẩu
 - Xác thực thông tin với database SQLite
 - Chuyển đến màn hình chính khi đăng nhập thành công
 
-### 📝 Đăng ký (Register)
+### Đăng ký (Register)
 - Tạo tài khoản mới với username và password
 - Lưu thông tin vào database SQLite
 - Kiểm tra đầu vào trước khi đăng ký
 
-### 🚪 Đăng xuất (Logout)
+### Đăng xuất (Logout)
 - Quay về màn hình đăng nhập
 - Kết thúc session hiện tại
 
 ---
 
-## 🗄️ Cơ sở dữ liệu
+## Cơ sở dữ liệu
 
 Ứng dụng sử dụng **SQLite** để lưu trữ thông tin người dùng:
 
@@ -75,7 +73,7 @@ AnatomyOfMobile_Group3_NT213/
 
 ---
 
-## 🚀 Hướng dẫn cài đặt
+## Hướng dẫn cài đặt
 
 ### Yêu cầu hệ thống
 - Android Studio (phiên bản mới nhất)
@@ -104,7 +102,7 @@ AnatomyOfMobile_Group3_NT213/
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Màn hình Đăng nhập | Màn hình Đăng ký | Màn hình Chính |
 |-------------------|------------------|----------------|
@@ -112,7 +110,7 @@ AnatomyOfMobile_Group3_NT213/
 ![alt text](image.png)|![alt text](image-1.png)|![alt text](image-2.png)
 ---
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm 3
 
 | STT | Họ và tên | MSSV |
 |-----|-----------|------|
@@ -123,14 +121,3 @@ AnatomyOfMobile_Group3_NT213/
  
 ---
 
-## 📄 License
-
-Dự án này được phát triển cho mục đích học tập tại UIT.
-
----
-
-## 📞 Liên hệ
-
-- **Môn học**: NT213.Q12.ANTT - Bảo mật Web
-- **Trường**: Đại học Công nghệ Thông tin - ĐHQG TP.HCM
-- **Repository**: [GitHub](https://github.com/mihwuan/NT213.Q12.ANTT_Group3_AnatomyOfMobile)
